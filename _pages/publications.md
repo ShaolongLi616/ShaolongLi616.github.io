@@ -11,13 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+(\* stands for equal contribution. Listed in reverse chronological order.)
+
 **Mixed Sparsity Training: Achieving 4× FLOP Reduction for LLMs Pretraining**  
 Pihe Hu\*, **Shaolong Li\***, and Longbo Huang  
-Under review for *International Conference on Machine Learning* (*ICML*), Feb. 2024  
+Under review for *International Conference on Machine Learning* (ICML), Feb. 2024  
 
 **MAST: A Sparse Training Framework for Multi-Agent Reinforcement Learning**  
 Pihe Hu\*, **Shaolong Li\***, Ling Pan and Longbo Huang  
-Under review for *International Conference on Machine Learning* (*ICML*), Feb. 2024  
+Under review for *International Conference on Machine Learning* (ICML), Feb. 2024  
 
 
 <!-- {% for post in site.publications reversed %}
