@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a final-year (senior) undergrad majoring in Computer Science and Technology at Central South University.
+Hi! I am a final-year (senior) undergrad majoring in Computer Science and Technology at Central South University. Nowadays I work as Research Assistant at [Tsinghua Decision Intelligence Lab](https://people.iiis.tsinghua.edu.cn/~dilab/) with [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).
 
 My research interests primarily focus on reinforcement learning, machine learning, and large language models. My long-term research goal is to create robust, efficient, and intelligent agents.
 
