@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an undergraduate student majoring in Computer Science and Technology at Central South University, currently on a gap year. I earned my Bachelor’s degree in June 2024. Nowadays I work as a Research Assistant at [AIMING Lab (Adaptive Intelligence through Alignment, Interaction and Learning), UNC-Chapel Hill](https://www.huaxiuyao.io/aiming-lab) with [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). Previously, I conducted research at Tsinghua University under the supervision of [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).
+Hi! I am an undergraduate student majoring in Computer Science and Technology at Central South University, currently on a gap year. I earned my Bachelor’s degree in June 2024. 
 
-My research interests primarily focus on AI Alignment, Large Language Models and Reinforcement Learning.
+Nowadays I work as a Research Assistant at [AIMING Lab (Adaptive Intelligence through Alignment, Interaction and Learning), UNC-Chapel Hill](https://www.huaxiuyao.io/aiming-lab) with [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). Previously, I conducted research at Tsinghua University under the supervision of [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).
 
-I'm also open to discussing other topics. If you're interested in chatting with me, please feel free to reach out!
+My research interests primarily focus on AI Alignment, Large Language Models and Reinforcement Learning. I'm also open to discussing other topics. If you're interested in chatting with me, please feel free to reach out!
 
 ## Recent News
 - *Sept, 2024* [**A Sparse Training Framework for Multi-Agent Reinforcement Learning**](https://www.arxiv.org/abs/2409.19391) accepted to **NeurIPS 2024**!
