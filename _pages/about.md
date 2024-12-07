@@ -16,6 +16,7 @@ My research interests primarily focus on:
 1. AI alignment and preference learning (e.g., RLHF, DPO).
 2. Mathematical reasoning and computational efficiency in large language models.
 3. Reinforcement learning.
+
 I'm also open to discussing other topics. If you're interested in chatting with me, please feel free to reach out!
 
 ## Recent News
