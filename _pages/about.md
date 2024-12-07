@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an undergraduate student majoring in Computer Science and Technology at Central South University, currently on a gap year. I earned my Bachelor’s degree in June 2024. 
+Hi! I recently graduated with a Bachelor's degree in Computer Science and Technology from Central South University and am currently spending my gap year doing research and internships. I earned my degree in June 2024.
 
 Nowadays I work as a Research Assistant at [AIMING Lab (Adaptive Intelligence through Alignment, Interaction and Learning), UNC-Chapel Hill](https://www.huaxiuyao.io/aiming-lab) with [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). Previously, I conducted research at Tsinghua University under the supervision of [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).
 
