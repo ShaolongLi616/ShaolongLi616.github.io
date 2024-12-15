@@ -13,7 +13,7 @@ Hi! I recently graduated with a Bachelor's degree in Computer Science and Techno
 Nowadays I work as a Research Assistant at [AIMING Lab (Adaptive Intelligence through Alignment, Interaction and Learning), UNC-Chapel Hill](https://www.huaxiuyao.io/aiming-lab) with [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). Previously, I conducted research at Tsinghua University under the supervision of [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).
 
 My research interests primarily focus on:
-1. AI alignment and preference learning (e.g., RLHF, DPO).
+1. AI alignment and preference learning (e.g., RLHF, DPO) in language models and multimodal models.
 2. Mathematical reasoning and computational efficiency in large language models.
 3. Reinforcement learning.
 
