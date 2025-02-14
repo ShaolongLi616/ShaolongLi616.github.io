@@ -15,7 +15,7 @@ author_profile: true
 
 [**Mixed Sparsity Training: Achieving 4× FLOP Reduction for Transformer Pretraining**](https://arxiv.org/abs/2408.11746)  
 Pihe Hu\*, **Shaolong Li\***, Xun Wang and Longbo Huang  
-*ArXiv Preprint*.  
+*Transactions on Machine Learning Research (TMLR)*.  
 
 [**Value-Based Deep Multi-Agent Reinforcement Learning with Dynamic Sparse Training**](https://www.arxiv.org/abs/2409.19391)  
 Pihe Hu\*, **Shaolong Li\***, Zhuoran Li, Ling Pan and Longbo Huang  
