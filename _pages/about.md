@@ -20,6 +20,7 @@ My research interests primarily focus on:
 I'm also open to discussing other topics. If you're interested in chatting with me, please feel free to reach out!
 
 ## Recent News
+- *Mar, 2025* [**Mixed Sparsity Training: Achieving 4× FLOP Reduction for Transformer Pretraining**](https://arxiv.org/abs/2408.11746) accepted to **TMLR**!
 - *Sept, 2024* [**A Sparse Training Framework for Multi-Agent Reinforcement Learning**](https://www.arxiv.org/abs/2409.19391) accepted to **NeurIPS 2024**!
 - *Jun, 2024.* Graduated from Central South University with honor: awarded **Outstanding Graduate**.
 - *Mar, 2024.* Research Intern with [**Prof. Huaxiu Yao**](https://www.huaxiuyao.io/) **@ UNC-Chapel Hill**!
