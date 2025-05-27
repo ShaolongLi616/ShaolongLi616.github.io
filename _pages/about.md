@@ -16,7 +16,7 @@ My research interests primarily focus on:
 1. Multimodal learning and foundation models (e.g., LLMs, VLMs).
 2. AI alignment and preference learning (e.g., RLHF, DPO, RLAIF).
 3. Mathematical reasoning and computational efficiency in large language models.
-4. Multi-Agent Reinforcement learning.
+4. Multi-agent reinforcement learning.
 
 I'm also open to discussing other topics. If you're interested in chatting with me, please feel free to reach out!
 
