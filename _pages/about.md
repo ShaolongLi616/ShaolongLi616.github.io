@@ -12,7 +12,7 @@ I am currently spending a gap year doing research and internships before startin
 
 Previously, I worked as a Research Assistant at UNC-Chapel Hill, advised by [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). Before that, I conducted research at Tsinghua University under the supervision of [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).
 
-My research interests primarily focus on:
+My research interests include:
 1. Multimodal learning and foundation models (e.g., LLMs, VLMs).
 2. AI alignment and preference learning (e.g., RLHF, DPO, RLAIF).
 3. Mathematical reasoning and computational efficiency in LLMs.
