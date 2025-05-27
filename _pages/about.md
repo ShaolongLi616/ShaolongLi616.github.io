@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I recently graduated with a Bachelor's degree in Computer Science and Technology from Central South University and am currently spending my gap year doing research and internships. I earned my degree in June 2024.
+I am currently spending a gap year doing research and internships before starting the M.S. in Computer Science and Engineering at the University of Michigan, Ann Arbor (Fall 2025). I earned my B.S. in Computer Science and Technology from Central South University in June 2024.
 
-Nowadays I work as a Research Assistant at [AIMING Lab (Adaptive Intelligence through Alignment, Interaction and Learning), UNC-Chapel Hill](https://www.huaxiuyao.io/aiming-lab) with [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). Previously, I conducted research at Tsinghua University under the supervision of [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).
+Previously, I worked as a Research Assistant at UNC-Chapel Hill, advised by [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). Before that, I conducted research at Tsinghua University under the supervision of [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).
 
 My research interests primarily focus on:
-1. AI alignment and preference learning (e.g., RLHF, DPO) in language models and multimodal models.
-2. Mathematical reasoning and computational efficiency in large language models.
-3. Reinforcement learning.
+1. Multimodal learning and foundation models (e.g., LLMs, VLMs).
+2. AI alignment and preference learning (e.g., RLHF, DPO, RLAIF).
+3. Mathematical reasoning and computational efficiency in large language models.
+4. Multi-Agent Reinforcement learning.
 
 I'm also open to discussing other topics. If you're interested in chatting with me, please feel free to reach out!
 
