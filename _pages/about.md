@@ -22,11 +22,11 @@ I'm also open to discussing other topics. If you're interested in chatting with 
 
 ## Recent News
 - *Mar, 2025* [**Mixed Sparsity Training: Achieving 4× FLOP Reduction for Transformer Pretraining**](https://arxiv.org/abs/2408.11746) accepted to **TMLR**!
+- *Sept, 2024.* Research Intern with [**Prof. Huaxiu Yao**](https://www.huaxiuyao.io/) **@ UNC-Chapel Hill**!
 - *Sept, 2024* [**A Sparse Training Framework for Multi-Agent Reinforcement Learning**](https://www.arxiv.org/abs/2409.19391) accepted to **NeurIPS 2024**!
 - *Jun, 2024.* Graduated from Central South University with honor: awarded **Outstanding Graduate**.
-- *Mar, 2024.* Research Intern with [**Prof. Huaxiu Yao**](https://www.huaxiuyao.io/) **@ UNC-Chapel Hill**!
 - *Oct, 2023.* Awarded **"Ruiwei" Scholarship** by CSU!
-- *Jun, 2023.* Visiting [**Prof. Longbo Huang**](https://people.iiis.tsinghua.edu.cn/~huang/) **@ IIIS, Tsinghua**!
+- *Jul, 2023.* Visiting [**Prof. Longbo Huang**](https://people.iiis.tsinghua.edu.cn/~huang/) **@ IIIS, Tsinghua**!
 - *Nov, 2022.* Awarded **"Yihao Foodstuff" Scholarship** by CSU!
 - *Dec, 2021.* Awarded **National Scholarship** by Ministry of Education!
 - *Nov, 2021.* Awarded **First Class Scholarship** by CSU!
