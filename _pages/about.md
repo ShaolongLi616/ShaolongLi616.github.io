@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently spending a gap year doing research and internships before starting the M.S. in Computer Science and Engineering at the University of Michigan, Ann Arbor (Fall 2025). I earned my B.S. in Computer Science and Technology from Central South University in June 2024.
+I am currently spending a gap year doing research and internships before starting the M.S. in Computer Science and Engineering at the University of Michigan, Ann Arbor (Fall 2025).
 
 Previously, I worked as a Research Assistant at UNC-Chapel Hill, advised by [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). Before that, I conducted research at Tsinghua University under the supervision of [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).
 
