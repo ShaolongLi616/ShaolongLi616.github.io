@@ -12,8 +12,7 @@ author_profile: true
 {% include base_path %}
 
 (\* stands for equal contribution. Listed in reverse chronological order.)  
-
-[**One-Step Flow Policy: Self-Distillation for Fast Visuomotor Policies**]({{ base_path }}/OFP.pdf)
+[**One-Step Flow Policy: Self-Distillation for Fast Visuomotor Policies**]({{ base_path }}/OFP.pdf)  
 **Shaolong Li**, Lichao Sun, and Yongchao Chen  
 *Preprint*.  
 
