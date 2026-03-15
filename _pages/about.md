@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am currently spending a gap year doing research and internships before starting the M.S. in Computer Science and Engineering at the University of Michigan, Ann Arbor (Fall 2025).
+<!-- I am currently spending a gap year doing research and internships before starting the M.S. in Computer Science and Engineering at the University of Michigan, Ann Arbor (Fall 2025). -->
+<!-- Previously, I worked as a Research Assistant at UNC-Chapel Hill, advised by [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). Before that, I conducted research at Tsinghua University under the supervision of [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/). -->
 
-Previously, I worked as a Research Assistant at UNC-Chapel Hill, advised by [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). Before that, I conducted research at Tsinghua University under the supervision of [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).
+I am a first-year M.S. student in Computer Science and Engineering at the University of Michigan, Ann Arbor.
+
+Previously, I conducted research under the supervision of [Prof. Yongchao Chen](https://yongchao98.github.io/YongchaoChen/) and [Prof.Lichao Sun](https://lichao-sun.github.io/). Before that, I worked as a research assistant at [UNC-Chapel Hill](https://www.unc.edu/), advised by [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). I am also extremely grateful to [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/) for guiding my early research at [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/#page3).
+
 
 My research interests include:
-1. Multimodal learning and foundation models (e.g., LLMs, VLMs).
-2. AI alignment and preference learning (e.g., RLHF, DPO, RLAIF).
-3. Mathematical reasoning and computational efficiency in LLMs.
-4. Multi-agent reinforcement learning.
+1. Robot Learning & Embodied AI (e.g., generative policies, Vision-Language-Action (VLA) models, World Models).
+2. Computational efficiency and mathematical reasoning in LLMs.
+3. Multi-Agent Reinforcement Learning.
 
 I'm also open to discussing other topics. If you're interested in chatting with me, please feel free to reach out!
 
