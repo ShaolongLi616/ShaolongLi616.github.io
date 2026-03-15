@@ -11,9 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-(\* stands for equal contribution. Listed in reverse chronological order.)
-[**One-Step Flow Policy: Self-Distillation for Fast Visuomotor Policies**]({{ base_path }}/OFP.pdf) [[PDF]]({{ base_path }}/OFP.pdf)  
-**Shaolong Li**, Lichao Sun, and Yongchao Chen
+(\* stands for equal contribution. Listed in reverse chronological order.)  
+
+[**One-Step Flow Policy: Self-Distillation for Fast Visuomotor Policies**]({{ base_path }}/OFP.pdf)
+**Shaolong Li**, Lichao Sun, and Yongchao Chen  
 *Preprint*.  
 
 [**Mixed Sparsity Training: Achieving 4× FLOP Reduction for Transformer Pretraining**](https://arxiv.org/abs/2408.11746)  

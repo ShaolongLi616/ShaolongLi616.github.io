@@ -13,15 +13,15 @@ redirect_from:
 
 I am a first-year M.S. student in Computer Science and Engineering at the University of Michigan, Ann Arbor.
 
-Previously, I conducted research under the supervision of [Prof. Yongchao Chen](https://yongchao98.github.io/YongchaoChen/) and [Prof.Lichao Sun](https://lichao-sun.github.io/). Before that, I worked as a research assistant at [UNC-Chapel Hill](https://www.unc.edu/), advised by [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). I am also extremely grateful to [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/) for guiding my early research at [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/#page3).
+Previously, I conducted research under [Prof. Yongchao Chen](https://yongchao98.github.io/YongchaoChen/) and [Prof. Lichao Sun](https://lichao-sun.github.io/). Before that, I worked as a research assistant at [UNC-Chapel Hill](https://www.unc.edu/), advised by [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). I am also extremely grateful to [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/) for guiding my early research at [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/#page3).
 
 
 My research interests include:
-1. Robot Learning & Embodied AI (e.g., generative policies, Vision-Language-Action (VLA) models, World Models).
+1. Robot Learning & Embodied AI: Vision-Language-Action (VLA) models, World Models, and generative policies (e.g., diffusion and flow policies).
 2. Computational efficiency and mathematical reasoning in LLMs.
 3. Multi-Agent Reinforcement Learning.
 
-I'm also open to discussing other topics. If you're interested in chatting with me, please feel free to reach out!
+I'm always open to discussing other research topics. If you're interested in chatting, please feel free to reach out!
 
 ## Recent News
 - *Mar, 2025* [**Mixed Sparsity Training: Achieving 4× FLOP Reduction for Transformer Pretraining**](https://arxiv.org/abs/2408.11746) accepted by **TMLR**!
